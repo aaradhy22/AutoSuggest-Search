@@ -35,7 +35,7 @@ A lightweight **text editor** built using Java Swing with advanced **string mani
 ### **How to Run?**
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/Java-Text-Editor.git
+   git clone https://github.com/aaradhy22/AutoSuggest-Search.git
    ```
 2. Open the project in **IntelliJ IDEA / Eclipse / NetBeans**.  
 3. Run `TextEditor.java`.  
